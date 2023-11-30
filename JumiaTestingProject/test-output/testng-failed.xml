@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Saved Items Test(failed)">
+    <classes>
+      <class name="test.SavedItemsTest">
+        <methods>
+          <include name="addSavedItemToCart"/>
+          <include name="removeSavedItem"/>
+          <include name="openSavedItems"/>
+          <include name="setUpTest"/>
+          <include name="signIn"/>
+          <include name="tearDownTest"/>
+        </methods>
+      </class> <!-- test.SavedItemsTest -->
+    </classes>
+  </test> <!-- Saved Items Test(failed) -->
+  <test thread-count="5" name="Cart Crud Operations Test(failed)">
+    <classes>
+      <class name="test.CartTest">
+        <methods>
+          <include name="closeNewsLetterPopup"/>
+          <include name="increaseItemQuantityFromCartPage"/>
+          <include name="removeItemFromCart"/>
+          <include name="addAnotherItemToCart"/>
+          <include name="tearDownTest"/>
+          <include name="openCartPage"/>
+          <include name="addItemToCart"/>
+          <include name="setUpTest"/>
+          <include name="decreaseItemQuantityFromCartPage"/>
+          <include name="increaseItemQuantityFromSingleProductPage"/>
+          <include name="checkout"/>
+          <include name="decreaseItemQuantityFromSingleProductPage"/>
+          <include name="ClickOnEmptyCart"/>
+        </methods>
+      </class> <!-- test.CartTest -->
+    </classes>
+  </test> <!-- Cart Crud Operations Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

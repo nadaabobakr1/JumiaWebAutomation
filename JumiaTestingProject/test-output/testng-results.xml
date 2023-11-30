@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-30T00:27:39 EET" name="Default suite" finished-at="2023-11-30T00:27:55 EET" duration-ms="16000">
+    <groups>
+    </groups>
+    <test started-at="2023-11-30T00:27:39 EET" name="Default test" finished-at="2023-11-30T00:27:55 EET" duration-ms="16000">
+      <class name="test.SearchForProduct">
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:test.SearchForProduct@273e7444]" started-at="2023-11-30T00:27:39 EET" name="setUpTest" finished-at="2023-11-30T00:27:44 EET" duration-ms="5051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="closeNewsLetterPopup()[pri:1, instance:test.SearchForProduct@273e7444]" started-at="2023-11-30T00:27:44 EET" name="closeNewsLetterPopup" finished-at="2023-11-30T00:27:46 EET" duration-ms="2208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeNewsLetterPopup -->
+        <test-method signature="searchForProduct()[pri:2, instance:test.SearchForProduct@273e7444]" started-at="2023-11-30T00:27:46 EET" name="searchForProduct" finished-at="2023-11-30T00:27:55 EET" duration-ms="8343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchForProduct -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:test.SearchForProduct@273e7444]" started-at="2023-11-30T00:27:55 EET" name="tearDownTest" finished-at="2023-11-30T00:27:55 EET" duration-ms="272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- test.SearchForProduct -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
