@@ -6,10 +6,10 @@ Welcome to my comprehensive web automation project tailored for the Jumia e-comm
 -User Sign in & Sign out
 -Search for product
 - Add/ Remove product from cart
--Add/Remove product from wishlist
--Add saved item to cart
--Increase/Decrese quantity from single product page
--Increase/Decrease quantity from cart page
--Checkout
+- Add/Remove product from wishlist
+- Add saved item to cart
+- Increase/Decrese quantity from single product page
+- Increase/Decrease quantity from cart page
+- Checkout
 Technologies used : Java, Selenium Web driver, TestNg,
 Page Object Model Design Patern, Maven project.
