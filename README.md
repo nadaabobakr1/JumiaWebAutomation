@@ -11,5 +11,5 @@ Welcome to my comprehensive web automation project tailored for the Jumia e-comm
 - Increase/Decrese quantity from single product page
 - Increase/Decrease quantity from cart page
 - Checkout
-Technologies used : Java, Selenium Web driver, TestNg,
+- Technologies used : Java, Selenium Web driver, TestNg,
 Page Object Model Design Patern, Maven project.
