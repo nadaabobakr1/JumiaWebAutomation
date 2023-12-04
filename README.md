@@ -3,8 +3,8 @@ Welcome to my comprehensive web automation project tailored for the Jumia e-comm
 
 ~ Tested Functionalities:
 - Close newsletter pop up
--User Sign in & Sign out
--Search for product
+- User Sign in & Sign out
+- Search for product
 - Add/ Remove product from cart
 - Add/Remove product from wishlist
 - Add saved item to cart
